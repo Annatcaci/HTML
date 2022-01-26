@@ -1,0 +1,16 @@
+body{
+    background: linear-gradient(to top left, #82048d, #3868d0, #87277c,#67b3ed); 
+    height: 100%;
+}
+h1{
+    color: white;
+    font-size: 60px;
+    width: 100%;
+    vertical-align: bottom;
+}
+div{
+    color: white;
+    font-size: 20px;
+    width: 45%;
+    margin-top: 40px;
+}
